@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223301687504",
+    "project_id": "padhle1",
+    "storage_bucket": "padhle1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223301687504:android:400c579f98fbc922e766d5",
+        "android_client_info": {
+          "package_name": "com.example.padhle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Tbas7_nHzGiwc7erOMxwfZLiN30BD1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
